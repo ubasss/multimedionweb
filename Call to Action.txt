@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body 
+{ 
+background-image: url('https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/284972082_1207674609974150_1998225343019837788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHfGMFrG1vv6nwBamdfUgYaodgLTEohwqOh2AtMSiHCo1hPwiuRmXroscsE2N-Jw16-WQf6Bp_cCOuoPSz8lEfL&_nc_ohc=Ky9BYgR2DpwAX-zFhVP&_nc_ht=scontent.fklo2-1.fna&oh=00_AT8IfmGy7tIJkHMX0Zjta5g_VMR9j8lhgNOUJWo_InJfjg&oe=62982B29' );
+   background-repeat: no-repeat;width: background-attachment: fixed;
+  background-size: 100% 8%;
+}
+</style>
+</head>
+<body> 
+
+<br>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Times New Roman, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e0a607
+ 
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: #7f8786;
+  color:white;
+}
+
+.topnav a.active {
+  background-color: #606665;
+  color: ;
+}
+</style>
+</head>
+<body>
+<br><br><br><br><br>
+<hr>
+
+
+
+<div class="topnav">
+  <a class="active" href="file:///C:/Users/USER/Desktop/WEBSITE/About.html">About Page</a>
+  <a   href="file:///C:/Users/USER/Desktop/WEBSITE/Call%20to%20Action.html">Call to Action</a>
+  <a href="file:///C:/Users/USER/Desktop/WEBSITE/Group%20Members.html">Group Members</a>
+</div>
+<hr>
+
+
+<div style="padding-left:30px">
+
+
+<center> <h1 style=color:black;"> Kasaliksikasan: Kasali ka sa Pananaliksik para sa 
+
+Kalikasan</h1>
+ 
+</div>
+<br>
+<center> <p>Mula sa hanay ng mga kabataan para sa kalikasan, ito ang KASALIKSIKASAN: 
+
+Kasali ka sa Pananaliksik sa Kalikasan<p/
+
+<p>Sama-sama tayong makisali, magsaliksik, at lumaban para sa KALIKASAN! </p>
+
+Abangan ang mga impormasyon sa web page na ito at maging kabahagi sa ating pwersa. 
+
+Takits, mga kasali!</p>
+<br>
+ <hr>
+  
+<div class="gallery"> 
+
+   <center><img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-
+
+6/285109244_1207619519979659_5139769859275097849_n.jpg?_nc_cat=105&ccb=1-
+
+7&_nc_sid=730e14&_nc_eui2=AeE0lWKsRwpYPjvWfZ0HRvtdecQK0Gc6U8B5xArQZzpTwBDmMR5tV29D5Lp
+
+9uTnZcv6uacnXyHo4YG2DeieLKhPP&_nc_ohc=wvQwiVedLiAAX9QtsV4&_nc_ht=scontent.fklo2-
+
+1.fna&oh=00_AT_yoYEwVQBIshHN8lJjuBnpr-_qmZSvYn9KuG5jTeLEyA&oe=6297CFE9" alt="Cinque 
+
+Terre" width="70%" height="500"  >
+
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:black">
+Mula sa tatlong salita<br> <br>
+
+<b>Kasali<br> <br>
+Saliksik<br> <br>
+at Kalikasan<br> <br></b>
+
+Sino ang kasali?<br> <br>
+
+Lahat TAYO dahil ito ay kolektibo nating aksyong upang matugunan ang pangangailangan ng kalikasan. <br> <br>
+
+Bakit kailangan mag<b>SALIKSIK?</b><br> <br>
+
+Hindi pwedeng alam mo lang na may problema dapat mas lumalim pa<br> <br> ang ating kaalaman kung bakit natin ginagawa ang ganitong adbokasiya. <br> <br>
+
+<b>KALIKASAN?</b><br> <br>
+
+Tumingin ka sa kapaligiran at makikita mo ang kasagutan.<br> <br>
+
+Halina't sumali,<br> <br>
+magsaliksik,<br> <br>
+at <b>TUMINDIG</b> para sa kalikasan!<br> <br>
+
+#Kasaliksikasan<br> <br>
+
+
+</p></div>
+  
+  
+
+
+
+</body>
+</html>

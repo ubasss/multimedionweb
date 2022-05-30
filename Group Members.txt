@@ -1,0 +1,188 @@
+<head>
+<style>
+body 
+{ 
+background-image: url('https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/284972082_1207674609974150_1998225343019837788_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHfGMFrG1vv6nwBamdfUgYaodgLTEohwqOh2AtMSiHCo1hPwiuRmXroscsE2N-Jw16-WQf6Bp_cCOuoPSz8lEfL&_nc_ohc=Ky9BYgR2DpwAX-zFhVP&_nc_ht=scontent.fklo2-1.fna&oh=00_AT8IfmGy7tIJkHMX0Zjta5g_VMR9j8lhgNOUJWo_InJfjg&oe=62982B29' );
+   background-repeat: no-repeat;width: background-attachment: fixed;
+  background-size: 100% 2.9%;
+}
+</style>
+</head>
+<body> 
+
+<br>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Times New Roman, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e0a607
+ 
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: #7f8786;
+  color:white;
+}
+
+.topnav a.active {
+  background-color: #606665;
+  color: ;
+}
+</style>
+</head>
+<body>
+<br><br><br><br><br>
+<hr>
+
+
+
+<div class="topnav">
+  <a href="file:///C:/Users/USER/Desktop/Multimedia Website/About.html">About Page</a>
+  <a  class="active"  href="file:///C:/Users/USER/Desktop/Multimedia Website/Call%20to%20Action.html">Call to Action</a>
+  <a href="file:///C:/Users/USER/Desktop/Multimedia Website/Group%20Members.html">Group Members</a>
+</div>
+<hr>
+
+<h1> <center><p style="color:White">Members </h1>
+<head>
+
+
+
+<div class="gallery"> 
+  <a target="_blank" href="https://www.facebook.com/dandandan03/">
+   <center><img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/251241996_1074490193292593_1862793183871719159_n.jpg?
+
+_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFP9uI1IX6KP-
+
+j00ElaaLZjOAmfTq_zkGE4CZ9Or_OQYfhdV3q9QTAmgaCZDXU5bPEGSaZyTFyLYF5mKFu8kRSE&_nc_ohc=g5LfgMzaK5UAX_16v1_&tn=m2VtDoa0Jd866Zby&_nc_ht=sconte
+
+nt.fklo2-1.fna&oh=00_AT8OS4iiYuo4MiWcgoDPs3QZeKFi5WWRI4KXpMZcMY4dYQ&oe=6293ADCB" alt="Cinque Terre" width="600" height="600"  >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi  I'm  ARCH </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/ace.abu.98">
+    <center><img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/279727015_5028442627247914_392577095286980482_n.jpg?
+
+_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH0wPhF8AKSHoFkiFv8VJi6-7iY_b0uqcz7uJj9vS6pzHgCcrZTrj6i0jRuLlrQ-
+
+GQtpiWnN2ocGEUjdKeU4iYW&_nc_ohc=BGZNquedmAUAX8S3aYd&_nc_ht=scontent.fklo2-1.fna&oh=00_AT-
+
+4AkuGUwQOSSLFx7XYyKRl1m_kuYp9i4UvbQBsklImiA&oe=62938CCE" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Ace </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=100010178107520">
+  <center>  <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/270011997_1616114908737764_6500353932902892619_n.jpg?
+
+_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_eui2=AeG-
+
+bxWcu73c3Qn9UR2WhtFPCqtRavYE6JYKq1Fq9gTolkq3FrhWCkMwgYDTFEks9e9lLT5rAhpeKfUKwOeVzilt&_nc_ohc=JhV5ZjhPc3wAX8KgnpC&_nc_ht=scontent.fklo2-
+
+1.fna&oh=00_AT_VjMfaW_Bg8CqomtHLmihs4iykcbYqn8BMhVA0mwGlyw&oe=62934E5F" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Carlos </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/florenz.evangelista.75">
+   <center> <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/250921625_1185405571981847_8863421872750341800_n.jpg?
+
+_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG-QT9vSH-MY8Fdx_s46KsO81MU7OUxl7PzUxTs5TGXs-usj6TcTjgBuMDb_VF2BqX7A1-0squVrADx-
+
+4Fbjnuu&_nc_ohc=u497Z57j8oEAX-Um5P2&_nc_ht=scontent.fklo2-1.fna&oh=00_AT-Nc33BfyXOFDswSFHxDtNL1FNDhCTX_15LNkD6YKW-Xg&oe=629407F7" 
+
+alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Florenz </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/ghina.manibo.9">
+   <center> <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/283019357_1664532417238377_2360650297426203196_n.jpg?
+
+_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHKtxsnSrAX5vZAAGCm35AlTSI4CThMiklNIjgJOEyKSTXHZT0WYALT9-
+
+DYv2GyKqynUXH7MAymtlLeHaaHVjef&_nc_ohc=khCVUBg9qcMAX9JJvfK&_nc_ht=scontent.fklo2-
+
+1.fna&oh=00_AT8vzt7V8GoChOVzcufHx7cn460diJhLY_rVPP3ZlUlgwQ&oe=629386D0" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Gina </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/Jhaeeeeerold">
+   <center> <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/274917302_3128065390814575_8796676503449948878_n.jpg?
+
+_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHklgnDnco3WgehrSe1M1q-
+
+uGPFwmXqfCi4Y8XCZep8KJz08SPctMvmWsCGSUfKw0boaifGN3fd8WhNOAJxcVuP&_nc_ohc=koS-oBf8FowAX_5PVDf&_nc_ht=scontent.fklo2-
+
+1.fna&oh=00_AT9Zgs2WrFsdN8vdILj7qt1u3Z1KPHM3Z9_Ups7hNSBfWg&oe=62943663" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Jhaerold </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=100009588708430">
+   <center> <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t1.6435-9/162541745_2958777471118514_5960966089068169548_n.jpg?_nc_cat=102&ccb=1
+
+-
+
+7&_nc_sid=174925&_nc_eui2=AeFpBk6O8Z0NgamFr3NwGAhiBrryZ8YEWW8GuvJnxgRZb1vcDsv6q0COSmC44O9BgA6e7gfllqQoU5UnxwGLTWyR&_nc_ohc=5BsTXk4NunUAX
+
+-T3Boo&tn=m2VtDoa0Jd866Zby&_nc_ht=scontent.fklo2-1.fna&oh=00_AT_TQF75ajsa1dm63iZW_SLdZmhWzmQoGEJd-4q4urLEQg&oe=62B37AEA" alt="Cinque 
+
+Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Jonalyn </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/Itsjoshuarmrzrj">
+   <center> <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t39.30808-6/267477681_7485237994835419_2746819962320327949_n.jpg?
+
+_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEcsxP94rhxUh-JlJLLzCLZugRqZ3vx8g26BGpne_HyDRgMWUHlp-
+
+p44WDwTyi6ivc3a2ddGLqutsmHagz9nVOa&_nc_ohc=rSSYRktqNQEAX-49o8s&_nc_ht=scontent.fklo2-
+
+1.fna&oh=00_AT9M2Sm5jSjoohwhFC89snaUoa1tvhla8zdfHtskjZXnxQ&oe=6293B249" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Joshua R. </p></div>
+</div>
+<br><br><br><br><br>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/dandandan03/">
+  <center>  <img src="https://scontent.fklo2-1.fna.fbcdn.net/v/t1.6435-9/71397075_2440196549641308_8548800831212748800_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGBHNTw8W8yddL24NnQbWKIB-xT53LPNN8H7FPncs803zF2wTZo_8RVu9lszPI0xHd2aVSWAIMQPXHZj56nuDrU&_nc_ohc=Ex9vmx4srfMAX8hWiXm&_nc_ht=scontent.fklo2-1.fna&oh=00_AT-dQaC3lIHkrpeVTZsnH9g3nUf1SavXaFMO1jQP4jyiHQ&oe=62BA0E72" alt="Cinque Terre" width="600" height="600" >
+  </a>
+  <div class="desc"> <p style="font-size:10px"><p style="color:White"> Hi I'm Jana </p></div>
+</div>
+<br><br><br><br><br>
+</body>
+</html>
